@@ -14,7 +14,7 @@
 | | [go-gpx](https://github.com/twpayne/go-gpx) | Package gpx provides convenience types for reading and writing GPX files. |
 | | [go-kml](https://github.com/twpayne/go-kml) | Package kml provides convenience methods for creating and writing KML documents. |
 | | [go-mbtiles](https://github.com/twpayne/go-mbtiles) | Package mbtiles reads and writes files in the MBTiles format. |
-| | [go-openaip](https://github.com/twpayne/go-openaip) | Package openaip decodes http://www.openaip.net/ airspace files. |
+| | [go-openaip](https://github.com/twpayne/go-openaip) | Package openaip decodes OpenAIP airspace files. |
 | | [go-polyline](https://github.com/twpayne/go-polyline) | Package polyline implements a Google Maps Encoding Polyline encoder and decoder. |
 | | [go-proj](https://github.com/twpayne/go-proj) | Package proj provides an interface to proj.org. |
 | | [go-shapefile](https://github.com/twpayne/go-shapefile) | Package go-shapefile provides a native Go reader for ESRI Shapefiles. |
