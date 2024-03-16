@@ -1,6 +1,6 @@
 | Category | Project | Description |
 | - | - | - |
-| Command line tools | [chezmoi](https://github.com/twpayne/chezmoi) | Manage your dotfiles across multiple diverse machines, securely. |
+| Tools | [chezmoi](https://github.com/twpayne/chezmoi) | Manage your dotfiles across multiple diverse machines, securely. |
 | | [find-duplicates](https://github.com/twpayne/find-duplicates) | Find duplicate files quickly. |
 | | [find-typos](https://github.com/twpayne/find-typos) | Find typos. |
 | | [flatjson](https://github.com/twpayne/flatjson) | Convert JSON files to a "flat" representation with one value per line. |
@@ -8,7 +8,7 @@
 | | [go-xmlstruct](https://github.com/twpayne/go-xmlstruct) | Generate Go structs from multiple XML documents. |
 | Geospatial tools | [osm-extract](https://github.com/twpayne/osm-extract) | Extract features from OpenStreetMap PBF files as GeoJSON. |
 | | [igc2kmz](https://github.com/twpayne/igc2kmz) | IGC to Google Earth converter. |
-| Go geospatial libaries | [go-geobabel](https://github.com/twpayne/go-geobabel) | Package geobabel converts geometry types between popular geometry libraries. |
+| Geospatial libaries | [go-geobabel](https://github.com/twpayne/go-geobabel) | Package geobabel converts geometry types between popular geometry libraries. |
 | | [go-geom](https://github.com/twpayne/go-geom) | Package geom implements efficient geometry types for geospatial applications. |
 | | [go-geos](https://github.com/twpayne/go-geos) | Package geos provides an interface to GEOS. |
 | | [go-gpx](https://github.com/twpayne/go-gpx) | Package gpx provides convenience types for reading and writing GPX files. |
