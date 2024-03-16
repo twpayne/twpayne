@@ -1,4 +1,4 @@
-| | |
+| Project | Description |
 | --- | --- |
 | **Tools** | |
 | [chezmoi](https://github.com/twpayne/chezmoi) | Manage your dotfiles across multiple diverse machines, securely. |
