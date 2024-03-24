@@ -31,6 +31,7 @@
 | [pgx-geos](https://github.com/twpayne/pgx-geos) | Package pgx-geos provides PostGIS and GEOS support for github.com/jackc/pgx/v5 via go-geos. |
 | | |
 | **Go libraries** | |
+| [go-nmea](https://github.com/twpayne/go-nmea) | Package nmea parses NMEA sentences. |
 | [go-pinentry](https://github.com/twpayne/go-pinentry) | Package pinentry provides a client to GnuPG's pinentry. |
 | [go-serial](https://github.com/twpayne/go-serial) | Package serial handles serial ports. |
 | [go-shell](https://github.com/twpayne/go-shell) | Package shell returns the user's shell across multiple platforms. |
