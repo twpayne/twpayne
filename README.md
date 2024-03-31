@@ -24,7 +24,7 @@
 | [go-openaip](https://github.com/twpayne/go-openaip) | Package openaip decodes OpenAIP airspace files. |
 | [go-polyline](https://github.com/twpayne/go-polyline) | Package polyline implements a Google Maps Encoding Polyline encoder and decoder. |
 | [go-proj](https://github.com/twpayne/go-proj) | Package proj provides an interface to proj.org. |
-| [go-shapefile](https://github.com/twpayne/go-shapefile) | Package go-shapefile provides a native Go reader for ESRI Shapefiles. |
+| [go-shapefile](https://github.com/twpayne/go-shapefile) | Package shapefile provides a native Go reader for ESRI Shapefiles. |
 | [go-waypoint](https://github.com/twpayne/go-waypoint) | Package waypoint reads and writes waypoints in formats used by the free flying community. |
 | [go-xctrack](https://github.com/twpayne/go-xctrack) | Package xctrack implements XCTrack's task format. |
 | [pgx-geom](https://github.com/twpayne/pgx-geom) | Package pgx-geos provides PostGIS support for github.com/jackc/pgx/v5 via go-geom. |
