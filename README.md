@@ -27,7 +27,7 @@
 | [go-shapefile](https://github.com/twpayne/go-shapefile) | Package shapefile provides a native Go reader for ESRI Shapefiles. |
 | [go-waypoint](https://github.com/twpayne/go-waypoint) | Package waypoint reads and writes waypoints in formats used by the free flying community. |
 | [go-xctrack](https://github.com/twpayne/go-xctrack) | Package xctrack implements XCTrack's task format. |
-| [pgx-geom](https://github.com/twpayne/pgx-geom) | Package pgx-geos provides PostGIS support for github.com/jackc/pgx/v5 via go-geom. |
+| [pgx-geom](https://github.com/twpayne/pgx-geom) | Package pgx-geom provides PostGIS support for github.com/jackc/pgx/v5 via go-geom. |
 | [pgx-geos](https://github.com/twpayne/pgx-geos) | Package pgx-geos provides PostGIS and GEOS support for github.com/jackc/pgx/v5 via go-geos. |
 | | |
 | **Go libraries** | |
