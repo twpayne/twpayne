@@ -33,7 +33,6 @@
 | **Go libraries** | |
 | [go-nmea](https://github.com/twpayne/go-nmea) | Package nmea parses NMEA sentences. |
 | [go-pinentry](https://github.com/twpayne/go-pinentry) | Package pinentry provides a client to GnuPG's pinentry. |
-| [go-serial](https://github.com/twpayne/go-serial) | Package serial handles serial ports. |
 | [go-shell](https://github.com/twpayne/go-shell) | Package shell returns the user's shell across multiple platforms. |
 | [go-vfs](https://github.com/twpayne/go-vfs) | Package vfs provides an abstraction of the os and io packages that is easy to test. |
 | [go-xdg](https://github.com/twpayne/go-xdg) | Package xdg provides support for the XDG Base Directory Specification. |
