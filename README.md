@@ -10,6 +10,15 @@
 | [go-jsonstruct](https://github.com/twpayne/go-jsonstruct) | Generate Go structs from multiple JSON objects. |
 | [go-xmlstruct](https://github.com/twpayne/go-xmlstruct) | Generate Go structs from multiple XML documents. |
 | | |
+| **Go libraries** | |
+| [go-affine2d](https://github.com/twpayne/go-affine2d) | Package affine2d implements 2D affine transformations. |
+| [go-nmea](https://github.com/twpayne/go-nmea) | Package nmea parses NMEA sentences. |
+| [go-pinentry](https://github.com/twpayne/go-pinentry) | Package pinentry provides a client to GnuPG's pinentry. |
+| [go-shell](https://github.com/twpayne/go-shell) | Package shell returns the user's shell across multiple platforms. |
+| [go-svg](https://github.com/twpayne/go-svg) | Package svg provides convenience methods for creating and writing SVG documents. |
+| [go-vfs](https://github.com/twpayne/go-vfs) | Package vfs provides an abstraction of the os and io packages that is easy to test. |
+| [go-xdg](https://github.com/twpayne/go-xdg) | Package xdg provides support for the XDG Base Directory Specification. |
+| | |
 | **Geospatial tools** | |
 | [osm-extract](https://github.com/twpayne/osm-extract) | Extract features from OpenStreetMap PBF files as GeoJSON. |
 | [igc2kmz](https://github.com/twpayne/igc2kmz) | IGC to Google Earth converter. |
@@ -29,15 +38,6 @@
 | [go-xctrack](https://github.com/twpayne/go-xctrack) | Package xctrack implements XCTrack's task format. |
 | [pgx-geom](https://github.com/twpayne/pgx-geom) | Package pgx-geom provides PostGIS support for github.com/jackc/pgx/v5 via go-geom. |
 | [pgx-geos](https://github.com/twpayne/pgx-geos) | Package pgx-geos provides PostGIS and GEOS support for github.com/jackc/pgx/v5 via go-geos. |
-| | |
-| **Go libraries** | |
-| [go-affine2d](https://github.com/twpayne/go-affine2d) | Package affine2d implements 2D affine transformations. |
-| [go-nmea](https://github.com/twpayne/go-nmea) | Package nmea parses NMEA sentences. |
-| [go-pinentry](https://github.com/twpayne/go-pinentry) | Package pinentry provides a client to GnuPG's pinentry. |
-| [go-shell](https://github.com/twpayne/go-shell) | Package shell returns the user's shell across multiple platforms. |
-| [go-svg](https://github.com/twpayne/go-svg) | Package svg provides convenience methods for creating and writing SVG documents. |
-| [go-vfs](https://github.com/twpayne/go-vfs) | Package vfs provides an abstraction of the os and io packages that is easy to test. |
-| [go-xdg](https://github.com/twpayne/go-xdg) | Package xdg provides support for the XDG Base Directory Specification. |
 | | |
 | **Editor plugins** | |
 | [vim-igc](https://github.com/twpayne/vim-igc) | VIM syntax highlighting for IGC files. |
