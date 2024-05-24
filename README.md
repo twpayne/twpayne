@@ -42,5 +42,6 @@
 | **Editor plugins** | |
 | [vim-igc](https://github.com/twpayne/vim-igc) | VIM syntax highlighting for IGC files. |
 | [vim-testscript](https://github.com/twpayne/vim-testscript) | VIM syntax highlighting for testscript. |
+| [vscode-igc](https://github.com/twpayne/vscode-igc) | IGC file support for Visual Studio Code. |
 | [vscode-testcript](https://github.com/twpayne/vscode-testscript) | testscript support for Visual Studio Code. |
 | | |
