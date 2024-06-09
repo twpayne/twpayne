@@ -22,7 +22,7 @@
 | | |
 | **Geospatial tools** | |
 | [osm-extract](https://github.com/twpayne/osm-extract) | Extract features from OpenStreetMap PBF files as GeoJSON. |
-| [igc2kmz](https://github.com/twpayne/igc2kmz) | IGC to Google Earth converter. |
+| [igc2kmz.py](https://github.com/twpayne/igc2kmz.py) | IGC to Google Earth converter (archived Python implementation). |
 | | |
 | **Geospatial libraries** | |
 | [go-geobabel](https://github.com/twpayne/go-geobabel) | Package geobabel converts geometry types between popular geometry libraries. |
