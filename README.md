@@ -29,6 +29,7 @@
 | [go-geom](https://github.com/twpayne/go-geom) | Package geom implements efficient geometry types for geospatial applications. |
 | [go-geos](https://github.com/twpayne/go-geos) | Package geos provides an interface to GEOS. |
 | [go-gpx](https://github.com/twpayne/go-gpx) | Package gpx provides convenience types for reading and writing GPX files. |
+| [go-igc](https://github.com/twpayne/go-igc) | Package igc parses IGC files robustly. |
 | [go-kml](https://github.com/twpayne/go-kml) | Package kml provides convenience methods for creating and writing KML documents. |
 | [go-mbtiles](https://github.com/twpayne/go-mbtiles) | Package mbtiles reads and writes files in the MBTiles format. |
 | [go-openaip](https://github.com/twpayne/go-openaip) | Package openaip decodes OpenAIP airspace files. |
