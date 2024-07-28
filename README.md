@@ -20,6 +20,7 @@
 | [go-svg](https://github.com/twpayne/go-svg) | Package svg provides convenience methods for creating and writing SVG documents. |
 | [go-vfs](https://github.com/twpayne/go-vfs) | Package vfs provides an abstraction of the os and io packages that is easy to test. |
 | [go-xdg](https://github.com/twpayne/go-xdg) | Package xdg provides support for the XDG Base Directory Specification. |
+| [go-xxtea](https://github.com/twpayne/go-xxtea) | Package xxtea implements the XXTEA block cipher. |
 | | |
 | **Geospatial tools** | |
 | [osm-extract](https://github.com/twpayne/osm-extract) | Extract features from OpenStreetMap PBF files as GeoJSON. |
