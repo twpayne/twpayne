@@ -16,6 +16,7 @@
 | [go-heap](https://github.com/twpayne/go-heap) | Package heap implements a generic heap data structure. |
 | [go-nmea](https://github.com/twpayne/go-nmea) | Package nmea parses NMEA sentences. |
 | [go-pinentry](https://github.com/twpayne/go-pinentry) | Package pinentry provides a client to GnuPG's pinentry. |
+| [go-sse](https://github.com/twpayne/go-sse) | Package sse implements a Server-Sent Events server. |
 | [go-shell](https://github.com/twpayne/go-shell) | Package shell returns the user's shell across multiple platforms. |
 | [go-svg](https://github.com/twpayne/go-svg) | Package svg provides convenience methods for creating and writing SVG documents. |
 | [go-vfs](https://github.com/twpayne/go-vfs) | Package vfs provides an abstraction of the os and io packages that is easy to test. |
