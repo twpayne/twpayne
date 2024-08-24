@@ -14,7 +14,6 @@
 | [go-affine2d](https://github.com/twpayne/go-affine2d) | Package affine2d implements 2D affine transformations. |
 | [go-fanet](https://github.com/twpayne/go-fanet) | Package fanet generates and parses FANET sentences. |
 | [go-heap](https://github.com/twpayne/go-heap) | Package heap implements a generic heap data structure. |
-| [go-lazy](https://github.com/twpayne/go-lazy) | Package lazy implements lazily-evaluated values. |
 | [go-nmea](https://github.com/twpayne/go-nmea) | Package nmea parses NMEA sentences. |
 | [go-pinentry](https://github.com/twpayne/go-pinentry) | Package pinentry provides a client to GnuPG's pinentry. |
 | [go-sse](https://github.com/twpayne/go-sse) | Package sse implements a Server-Sent Events server. |
