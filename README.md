@@ -7,7 +7,7 @@
 | [flatjson](https://github.com/twpayne/flatjson) | Convert JSON files to a "flat" representation with one value per line. |
 | | |
 | **Go tools** | |
-| [go-jsonstruct](https://github.com/twpayne/go-jsonstruct) | Generate Go structs from multiple JSON objects. |
+| [go-jsonstruct](https://github.com/twpayne/go-jsonstruct) | Generate Go structs from multiple JSON or YAML objects. |
 | [go-xmlstruct](https://github.com/twpayne/go-xmlstruct) | Generate Go structs from multiple XML documents. |
 | | |
 | **Go libraries** | |
