@@ -15,6 +15,7 @@
 | [go-fanet](https://github.com/twpayne/go-fanet) | Package fanet generates and parses FANET sentences. |
 | [go-heap](https://github.com/twpayne/go-heap) | Package heap implements a generic heap data structure. |
 | [go-nmea](https://github.com/twpayne/go-nmea) | Package nmea parses NMEA sentences. |
+| [go-pubsub](https://github.com/twpayne/go-pubsub) | Package pubsub is a simple publish-subscribe implementation using generics. |
 | [go-pinentry](https://github.com/twpayne/go-pinentry) | Package pinentry provides a client to GnuPG's pinentry. |
 | [go-sse](https://github.com/twpayne/go-sse) | Package sse implements a Server-Sent Events server. |
 | [go-shell](https://github.com/twpayne/go-shell) | Package shell returns the user's shell across multiple platforms. |
