@@ -6,24 +6,6 @@
 | [find-typos](https://github.com/twpayne/find-typos) | Find typos. |
 | [flatjson](https://github.com/twpayne/flatjson) | Convert JSON files to a "flat" representation with one value per line. |
 | | |
-| **Go tools** | |
-| [go-jsonstruct](https://github.com/twpayne/go-jsonstruct) | Generate Go structs from multiple JSON or YAML objects. |
-| [go-xmlstruct](https://github.com/twpayne/go-xmlstruct) | Generate Go structs from multiple XML documents. |
-| | |
-| **Go libraries** | |
-| [go-affine2d](https://github.com/twpayne/go-affine2d) | Package affine2d implements 2D affine transformations. |
-| [go-fanet](https://github.com/twpayne/go-fanet) | Package fanet generates and parses FANET sentences. |
-| [go-heap](https://github.com/twpayne/go-heap) | Package heap implements a generic heap data structure. |
-| [go-nmea](https://github.com/twpayne/go-nmea) | Package nmea parses NMEA sentences. |
-| [go-pubsub](https://github.com/twpayne/go-pubsub) | Package pubsub is a simple publish-subscribe implementation using generics. |
-| [go-pinentry](https://github.com/twpayne/go-pinentry) | Package pinentry provides a client to GnuPG's pinentry. |
-| [go-sse](https://github.com/twpayne/go-sse) | Package sse implements a Server-Sent Events server. |
-| [go-shell](https://github.com/twpayne/go-shell) | Package shell returns the user's shell across multiple platforms. |
-| [go-svg](https://github.com/twpayne/go-svg) | Package svg provides convenience methods for creating and writing SVG documents. |
-| [go-vfs](https://github.com/twpayne/go-vfs) | Package vfs provides an abstraction of the os and io packages that is easy to test. |
-| [go-xdg](https://github.com/twpayne/go-xdg) | Package xdg provides support for the XDG Base Directory Specification. |
-| [go-xxtea](https://github.com/twpayne/go-xxtea) | Package xxtea implements the XXTEA block cipher. |
-| | |
 | **Geospatial tools** | |
 | [osm-extract](https://github.com/twpayne/osm-extract) | Extract features from OpenStreetMap PBF files as GeoJSON. |
 | [igc2kmz.py](https://github.com/twpayne/igc2kmz.py) | IGC to Google Earth converter (archived Python implementation). |
@@ -44,6 +26,24 @@
 | [go-xctrack](https://github.com/twpayne/go-xctrack) | Package xctrack implements XCTrack's task format. |
 | [pgx-geom](https://github.com/twpayne/pgx-geom) | Package pgx-geom provides PostGIS support for github.com/jackc/pgx/v5 via go-geom. |
 | [pgx-geos](https://github.com/twpayne/pgx-geos) | Package pgx-geos provides PostGIS and GEOS support for github.com/jackc/pgx/v5 via go-geos. |
+| | |
+| **Go tools** | |
+| [go-jsonstruct](https://github.com/twpayne/go-jsonstruct) | Generate Go structs from multiple JSON or YAML objects. |
+| [go-xmlstruct](https://github.com/twpayne/go-xmlstruct) | Generate Go structs from multiple XML documents. |
+| | |
+| **Go libraries** | |
+| [go-affine2d](https://github.com/twpayne/go-affine2d) | Package affine2d implements 2D affine transformations. |
+| [go-fanet](https://github.com/twpayne/go-fanet) | Package fanet generates and parses FANET sentences. |
+| [go-heap](https://github.com/twpayne/go-heap) | Package heap implements a generic heap data structure. |
+| [go-nmea](https://github.com/twpayne/go-nmea) | Package nmea parses NMEA sentences. |
+| [go-pubsub](https://github.com/twpayne/go-pubsub) | Package pubsub is a simple publish-subscribe implementation using generics. |
+| [go-pinentry](https://github.com/twpayne/go-pinentry) | Package pinentry provides a client to GnuPG's pinentry. |
+| [go-sse](https://github.com/twpayne/go-sse) | Package sse implements a Server-Sent Events server. |
+| [go-shell](https://github.com/twpayne/go-shell) | Package shell returns the user's shell across multiple platforms. |
+| [go-svg](https://github.com/twpayne/go-svg) | Package svg provides convenience methods for creating and writing SVG documents. |
+| [go-vfs](https://github.com/twpayne/go-vfs) | Package vfs provides an abstraction of the os and io packages that is easy to test. |
+| [go-xdg](https://github.com/twpayne/go-xdg) | Package xdg provides support for the XDG Base Directory Specification. |
+| [go-xxtea](https://github.com/twpayne/go-xxtea) | Package xxtea implements the XXTEA block cipher. |
 | | |
 | **Editor plugins** | |
 | [vim-igc](https://github.com/twpayne/vim-igc) | VIM syntax highlighting for IGC files. |
